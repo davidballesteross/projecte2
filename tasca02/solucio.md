@@ -1,4 +1,4 @@
-# ⚡ T02 – Selecció d’un SAI per una empresa client
+# T02 – Selecció d’un SAI per una empresa client
 
 **Autor:** David Ballesteros Antich  
 **Curs:** 2B – CFGM Sistemes Microinformàtics i Xarxes  
@@ -9,7 +9,7 @@
 
 ---
 
-## 📘 Índex
+## Índex
 1. [Descripció del cas](#1-descripció-del-cas)  
 2. [Càlculs de potència i reserva](#2-càlculs-de-potència-i-reserva)  
 3. [Determinació de l’autonomia](#3-determinació-de-lautonomia)  
