@@ -35,5 +35,7 @@ La gestió del projecte es fa mitjançant **Planner (Kanban)** i **GitHub** per 
 
 ---
 
+## Tasques
+
 
 
