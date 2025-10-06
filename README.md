@@ -1,8 +1,6 @@
 # PROJECTE 2
-# Projecte EverPia – Consultoria IT
 
-## Descripció general
-
+## Descripció del projecte
 **EverPia** és un projecte formatiu del **CFGM de Sistemes Microinformàtics i Xarxes (SMX2)**.  
 En aquest projecte assumim el paper de **consultors júnior** dins d’una empresa fictícia de consultoria tecnològica anomenada **EverPia**, amb la missió de resoldre reptes tecnològics de clients molt diversos.
 
