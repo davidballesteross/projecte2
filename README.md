@@ -37,5 +37,5 @@ La gestió del projecte es fa mitjançant **Planner (Kanban)** i **GitHub** per 
 
 ## Tasques
 
-
+[Tasca02](tasca02/README.md)
 
