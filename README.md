@@ -37,19 +37,5 @@ La gestió del projecte es fa mitjançant **Planner (Kanban)** i **GitHub** per 
 
 ---
 
-## 🏁 Conclusions
 
-El **Projecte EverPia** és una experiència pràctica que combina coneixement tècnic i treball en equip.  
-Permet entendre com funciona una **consultora IT**, desenvolupant habilitats essencials per al futur professional en el món de les tecnologies de la informació.
-
-> 💡 *“Cada projecte és una oportunitat per créixer junts.”* – EverPia Team
-
----
-
-### 👨‍💻 Autor
-
-**Nom de l’alumne:** *[Escriu el teu nom aquí]*  
-**Curs:** 2n SMX – CFGM Sistemes Microinformàtics i Xarxes  
-**Professorat:** Carlos Alonso, Isabel Bosch, Carles Fugarolas, Cristian González, Rubén Martínez, Blai Redondo, Núria Ruiz  
-**Centre:** Institut Miquel Biada  
 
