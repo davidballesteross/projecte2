@@ -84,4 +84,4 @@ Aquesta tasca té com a objectiu que aprengueu a treballar amb **Markdown**, ja 
 - A l'arxiu [client04.md](client04.md) hi ha la fitxa del primer client.
 - A l'arxiu [client06.md](client06.md) hi ha la fitxa del segon client.
 
-[Tornar pàgina projecte](../readme.md)
+[Tornar pàgina projecte](../README.md)
