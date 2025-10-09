@@ -1,47 +1,87 @@
-# T02: Selecció d’un SAI per una empresa client
+# 🧩 T08: Assessorament de domini i hosting — Aplicacions web
 
-## Breu descripció
-L’empresa **TecnoGestió S.L.**, dedicada a la gestió documental i assessorament informàtic, té un petit despatx amb:
+## 📝 Breu descripció
+**En grups de projecte**
 
-- 4 ordinadors de sobretaula
-- Una impressora-fotocopiadora multifunció (similar a les que té l’escola)
-- Un router d’accés a Internet
+Un nou client de la consultora **EverPia** ha demanat que l’assessoreu per escollir **domini i hosting** per a la seva web.  
+Cada equip tindrà assignats **dos clients** (vegeu la llista de clients) i haurà de preparar una **proposta professional**.
 
-Davant les constants incidències amb el subministrament elèctric a la zona, la direcció ha decidit adquirir un **SAI** per garantir la continuïtat del servei i protegir els equips.
+Els clients es repartiran a classe.  
+La finalitat és preparar una **presentació tècnica** per explicar a cada client quin **hosting** li recomaneu, argumentant la decisió amb criteris propis d’un tècnic informàtic.
 
-S’han posat en contacte amb l’empresa on esteu fent l’estada i el vostre responsable us ha encarregat que en feu l’estudi i tria del SAI.
+La documentació s’haurà de redactar **íntegrament en Markdown** i pujar-se al vostre repositori de **GitHub** dins la carpeta `T08/`.  
+Aquesta tasca té com a objectiu que aprengueu a treballar amb **Markdown**, ja que és un format estàndard en documentació tècnica i us servirà en projectes futurs.
 
-![Imatge de presentació del projecte: Es veu a un noi inspeccionant un SAI](img/tasca02.png)
+> ⚠️ Tot el que prepareu en aquesta tasca servirà directament com a base per al **Producte P03: Presentació d’elecció de hosting**, que haureu d’exposar en el marc del **Projecte Intermodular** davant del client.
 
-## Tasques a realitzar
+---
 
-### 1. Inventari d’equips
-- Llista dels dispositius que es connectaran al SAI (ordinadors, monitors, router, etc.).
-- Justifiqueu si hi ha algun aparell que no hi connectareu al sistema d’alimentació ininterrompuda.
-- Consulta de les especificacions tècniques per obtenir el consum de cada dispositiu. Seleccioneu components que s’ajustin als que podríeu trobar-vos a la seu del client.
-- Indiqueu clarament les dades del component triat i els valors de **watts** i **VA** corresponents.
+## 🎯 Objectius específics de la tasca / Finalitat
+- Aprendre a treballar amb **Markdown** com a format estàndard de documentació tècnica.  
+- Investigar i analitzar **ofertes de hosting i dominis** segons els requeriments d’un client realista.  
+- Practicar la **redacció clara i estructurada** de propostes professionals.  
+- Preparar la documentació que serà utilitzada posteriorment en la **presentació P03**.
 
-### 2. Càlcul de potència total
-- Valor total de potència.
-- Valor incloent la reserva del 20%.
+---
 
-### 3. Determinació de l’autonomia
-- Estimació del temps mínim que el SAI ha de mantenir els equips en funcionament (ex. 10 minuts per guardar treballs i apagar correctament).
+## 📘 Objectius d’aprenentatge
+- Detectar **requeriments tècnics i de negoci** d’un client web (capacitat, creixement, SLA, RGPD).  
+- Comparar **proveïdors/planes de hosting** amb criteris objectius (rendiment, seguretat, suport, cost total).  
+- Dissenyar una **estratègia de domini** (TLD, marca, SEO bàsic) i un **pla de DNS** coherent.  
+- Documentar i presentar una **proposta professional** (GitHub + Presentació P03).  
+  *(Enllaç amb P02: documentació al repositori).*
 
-### 4. Recerca de models de SAI
-- Cerca de 2 o 3 models de SAI que compleixin els requisits.
-- Comparació de característiques: potència, autonomia, tipus de sortides, preu, marca.
+---
 
-### 5. Informe tècnic
-Redacció d’un informe amb:  
-- Càlculs realitzats  
-- Models analitzats  
-- Justificació de la selecció final  
+## 📦 Lliurables (per a cada client)
+1. **Fitxa del client** (vegeu plantilla).  
+2. **Taula comparativa** de 3–4 opcions de hosting + domini (vegeu plantilla).  
+3. **Proposta final**: pla recomanat + pla B d’escalabilitat.  
+4. **Entorn creat**: compte al proveïdor (sense cost si és possible) i espai de proves preparat (subdomini temporal o domini de proves del proveïdor).  
+5. **Evidències al repositori GitHub** (captures, configuració, càlcul de costos) i documentació dins `T08/`.  
+   *(Connexió amb P01/P02 del projecte).*
 
-## Material de suport
-- Apunts [RA1AA3 El SAI](https://docs.google.com/presentation/d/15BA6k08MLx_72_gzstlj2snat0b6eHfm/edit?usp=drive_link&ouid=104728425662496836733&rtpof=true&sd=true)
+---
 
+## 🧩 Plantilla en format Markdown
+
+```
+# Proposta de domini i hosting per al client [Nom del client]
+
+## 1. Presentació del client
+- Breu descripció del negoci  
+- Objectius principals de la web  
+- Requeriments tècnics identificats  
+
+## 2. Anàlisi de dominis
+- Criteris per al naming (identitat, SEO, extensió preferida)  
+- Alternatives de dominis disponibles  
+- Recomanació final de domini  
+
+## 3. Comparativa de hostings
+| Proveïdor | Espai disc | Transferència | Preu | Pros | Contres |
+|------------|------------|----------------|-------|-------|----------|
+| Hosting A  |            |                |       |       |          |
+| Hosting B  |            |                |       |       |          |
+| Hosting C  |            |                |       |       |          |
+
+## 4. Checklist de requeriments complerts
+- [x] SSL inclòs  
+- [x] Backups automàtics  
+- [ ] Correu corporatiu  
+- [ ] CDN integrat  
+
+## 5. Recomanació final
+- **Hosting escollit:** _______  
+- **Domini recomanat:** _______  
+- **Justificació de la decisió:**  
+
+## 6. Conclusions
+- Quins criteris han estat més decisius  
+- Per què aquesta proposta és la millor opció per al client
+```
 ## Solució
-A l'arxiu [solucio.md](solucio.md) hi ha solució descrita.
+- A l'arxiu [client04.md](client04.md) hi ha la fitxa del primer client.
+- A l'arxiu [client06.md](client06.md) hi ha la fitxa del segon client.
 
 [Tornar pàgina projecte](../README.md)
