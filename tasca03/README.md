@@ -7,6 +7,8 @@ un client ha **perdut l’accés al seu sistema** per culpa d’un usuari o admi
 L’objectiu és **recuperar l’accés al sistema operatiu** sense perdre dades i garantint la seguretat i integritat de la informació.  
 Aquesta activitat combina coneixements de **seguretat informàtica, gestió d’usuaris** i **administració de sistemes**.
 
+![Imatge de presentació del projecte: Es veu a dos nois mirant al ordinador del client](img/tasca03.png)
+
 ---
 
 ### Objectius de la tasca
