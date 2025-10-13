@@ -6,6 +6,7 @@ Aquesta tasca consisteix en realitzar l’estudi i la selecció d’un **SAI (Si
 L’empresa pateix constants talls elèctrics que afecten el funcionament dels seus equips informàtics.  
 Com a **consultor júnior d’EverPia**, el teu objectiu és analitzar les necessitats energètiques de l’oficina i proposar el model de SAI més adequat per garantir la **continuïtat del servei** i la **protecció del maquinari**.
 
+![Imatge de presentació del projecte: Es veu un noi mirant el sai](img/tasca02.png)
 ---
 
 ### Objectius de la tasca
