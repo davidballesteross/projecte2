@@ -91,4 +91,4 @@ L’extensió .school reforça la identitat educativa i facilita el posicionamen
 ### Per què aquesta proposta és la millor opció
 Ofereix una solució escalable, segura i professional adaptada a les necessitats específiques d’una escola de surf. Facilita la gestió de reserves, la promoció visual amb vídeos i fotografies, i garanteix una experiència fluida per a usuaris internacionals.
 
-[Tornar a enunciat](README.md)
+[Tornar a enunciat](readme.md)
