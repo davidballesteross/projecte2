@@ -4,8 +4,8 @@
 **Curs:** 2B – CFGM Sistemes Microinformàtics i Xarxes  
 **Mòdul:** Seguretat informàtica  
 **Professora:** Isabel Bosch  
-**Data:** 02/10/2025  
-**Enllaç:** [Document original](https://docs.google.com/document/d/1R-FFYnsRPVyzYx2FpculMyQtKFhqpgO-tayO0LNToKQ/edit?usp=sharing)
+**Data:** 12/11/2025  
+**Guia de comandes:** [Document original]([https://docs.google.com/document/d/1R-FFYnsRPVyzYx2FpculMyQtKFhqpgO-tayO0LNToKQ/edit?usp=sharing](https://docs.google.com/presentation/d/1EFSMfLQRM0wvxRFEvXLN0oaiBq3goWNQ/edit?usp=sharing&ouid=104728425662496836733&rtpof=true&sd=true))
 
 ---
 
